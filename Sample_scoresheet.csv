@@ -1,0 +1,9 @@
+,Average grade,Test 1,Test 2,Test 3,Test 4
+A student,96.25,20.00,19.00,18.00,20.00
+B student,88.75,17.00,19.00,17.00,18.00
+C student,72.5,16.00,12.00,14.00,16.00
+D student,65,10.00,16.00,12.00,14.00
+Student with missing assignments,95,20.00,,18.00,
+Student trending down,87.5,19.00,18.00,17.00,16.00
+Student with bad recent assignment,88.75,19.00,18.00,19.00,15.00
+Student trending up,92.5,17.00,18.00,19.00,20.00
